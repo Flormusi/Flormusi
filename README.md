@@ -58,4 +58,11 @@ Tech stack:
 
 ## 📫 Let's connect
 - GitHub: https://github.com/Flormusi
-- LinkedIn: (add your link here)
+- LinkedIn: https://linkedin.com/in/TU-USUARIO
+
+---
+
+## 📸 Screenshots
+
+![Trainer Dashboard](assets/dashboard.png)
+![Client Onboarding](assets/onboarding.png)
